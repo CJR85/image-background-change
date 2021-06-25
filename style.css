@@ -18,4 +18,12 @@
   line-height: 0;
   background-image: url(images/background.png);
   overflow: hidden;
+  position: relative;
+}
+
+.img-wrap {
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
 }
